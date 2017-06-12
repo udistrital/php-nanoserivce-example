@@ -1,1 +1,1 @@
-<? echo "hola mundo del monolito"; ?>
+<? echo "esta es la applicacion 2" ?>

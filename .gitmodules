@@ -1,3 +1,0 @@
-[submodule "app1"]
-	path = app1
-	url = git@github.com:udistrital/php-microservice-example.git
